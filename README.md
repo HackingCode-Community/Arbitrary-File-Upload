@@ -10,7 +10,7 @@
             <h1>Arbitrary File Upload</h1>
         </header>
         <hr>
-        <b>El codigo mostrado aqui es para crear una web vulnerable, la clase y informacion sobre esta vulnerabilidad se encuentra en nuetra plataforma :).</b>
+        <b>El codigo mostrado aqui es para crear una web vulnerable, la clase y informacion sobre esta vulnerabilidad se encuentra en nuetra plataforma :), no olvides crear el directorio llamado imag, ahi es donde se almacenaran todos los archivos.</b>
         <ul>
             <a href="https://www.hackingcode.online/" target="_blank">
                 <li>Nuestra plataforma</li>
